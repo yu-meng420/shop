@@ -1,34 +1,24 @@
-# vue-project
+# 项目名称--小马哥商城（PC端）
 
-## Project setup
-```
-yarn install
-```
+### 项目负责人
 
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
+​	于萌
 
-### Compiles and minifies for production
-```
-yarn run build
-```
+### git地址
 
-### Run your tests
-```
-yarn run test
-```
+​	git@github.com:yu-meng420/shop.git
 
-### Lints and fixes files
-```
-yarn run lint
-```
+​	
 
-### Run your unit tests
-```
-yarn run test:unit
-```
+### 开发排期
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+| 项目名称 | 模块名称  | 开发排期 | 自测排期 |
+| ---- | ----- | ---- | ---- |
+| 首页   | 顶部和底部 | 6h   | 4h   |
+|      | 内容模块  | 8h   | 6h   |
+|      | 导航栏实现 | 2h   | 1h   |
+| 购物车  | 购物车   | 2h   | 1h   |
+|      | 购物车列表 | 4h   | 3h   |
+|      | 轮播图   | 2h   | 1h   |
+|      | 商品的信息 | 2h   | 1h   |
+|      | 内容模块  | 8h   | 7h   |
